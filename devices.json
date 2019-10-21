@@ -31,4 +31,20 @@
          }
       ]
    }
+   {
+      "codename":"santoni",
+      "brand":"Xiaomi",
+      "name":"Redmi 4X",
+      "device_tree":"device_xiaomi_santoni",
+      "supported_version":[ "ten", "ten_gapps" ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 435",
+            "ram":"2/3/4GB LPDDR4X",
+            "display":"IPS 5.0\" 720p",
+            "battery":4100,
+            "camera":"13Mpx + 5Mpx"
+         }
+      ]
+   }
 ]
